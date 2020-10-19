@@ -1,0 +1,13 @@
+---
+users:
+  - name: ravi
+    first: ravi
+    middle: raj
+    last: singh
+    uid: 244
+
+  - name: rajan
+    first: rajan3
+    middle: acb
+    last: singh
+    uid: 343
